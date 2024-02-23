@@ -1,0 +1,5 @@
+{
+  "name": "@beast/bun",
+  "version": "1.0.0",
+  "exports": "./main.ts"
+}
